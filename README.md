@@ -1,16 +1,7 @@
-# chitchat
+# MeetUp
 
-A new Flutter project.
+MeetUp is a mobile application developed with the motive of connecting people around the world with similar interests. This app has feature to mention your interest and discover people registered on the app having same as well as other interests. This is a platform to socialize digitally and connect with people sharing your interests.
 
-## Getting Started
+The technical stack used to build this project is 1.Flutter 2.Firebase
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can check out how the app looks in the APP_OUTPUT Folder.
